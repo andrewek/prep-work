@@ -1,3 +1,5 @@
+# 1. Input, Output, Data Manipulation, and Math
+
 This section will get you working with the basics of Ruby.
 
 First, read through chapters 2-6 of Chris Pine's *[Learn to
